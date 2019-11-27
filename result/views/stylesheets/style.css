@@ -7,7 +7,7 @@ html,body{
   margin:0;
   padding:0;
   height:100%;
-  font-family: 'Open Sans';
+  font-family: 'cursive';
 }
 body{
   opacity:0;
@@ -17,7 +17,7 @@ body{
 .divider{
   height: 150px;
   width:2px;
-  background-color: #C0C9CE;
+  background-color: #8f7ecc;
   position: relative;
   top: 50%;
   float: left;
@@ -25,11 +25,11 @@ body{
 }
 
 #background-stats-1{
-  background-color: #2196f3;
+  background-color: #b97ecc;
 }
 
 #background-stats-2{
-  background-color: #00cbca;
+  background-color: #cc7e9f;
 }
 
 #content-container{
